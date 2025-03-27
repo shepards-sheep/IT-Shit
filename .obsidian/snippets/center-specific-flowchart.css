@@ -1,0 +1,5 @@
+/* Center only Mermaid diagrams that have the "center-flowchart" class */
+pre[class*="center-flowchart"] .mermaid {
+    display: flex;
+    justify-content: center;
+}
