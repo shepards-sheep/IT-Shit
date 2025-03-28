@@ -1,4 +1,6 @@
 [
   "mermaid-tools",
-  "dataview"
+  "dataview",
+  "obsidian-textgenerator-plugin",
+  "workspaces-plus"
 ]
