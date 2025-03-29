@@ -1,7 +1,0 @@
-{
-  "nativeMenus": true,
-  "cssTheme": "ITS Theme",
-  "enabledCssSnippets": [
-    "center-specific-flowchart"
-  ]
-}
