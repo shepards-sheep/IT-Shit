@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Windows/Shorctucts/Draft Notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -186,8 +186,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -206,21 +206,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "4f29cf0bb1003cb4",
   "lastOpenFiles": [
-    "Windows/Shorctucts/Draft Notes.md",
-    "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
     "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.1 Cognative Load.md",
+    "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
+    "Windows/Shorctucts/Draft Notes.md",
+    "Windows/Shorctucts/Chat notes.md",
     "Windows/Shorctucts/0/CLT/Content/1. Persception.md",
     "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview",
     "Windows/Shorctucts/0/CLT/Content/4. Learning Processes.md",
     "Windows/Shorctucts/0/CLT/Content/3. Problem-Solving & Critical Thinking.md",
     "Windows/Shorctucts/0/CLT/Content/2. Memory.md",
-    "Windows/Shorctucts/Chat notes.md",
     "Windows/Shorctucts/0/0.3 Glossary.md",
     "Windows/Shorctucts/0/0.2 Reference Guide.md",
     "Windows/Shorctucts/1. Introduction/1.1 Shortcut Introduction.md",
