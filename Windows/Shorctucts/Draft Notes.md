@@ -60,3 +60,15 @@ To ensure the **CLT Overview** is well-structured, engaging, and easy to navigat
 - A **structured visual** (vertical or left-to-right) reinforcing key concepts.
     
 - A **mnemonic** for easy recall.
+
+
+---
+## Key Aspects
+### **Types of Cognitive Load**
+### **Working Memory & Long-Term Memory**
+### **Schema Theory**
+### **Split-Attention Effect & Redundancy Principle**
+### ** Expertise Reversal Effect**
+### **Element Interactivity & Task Complexity**
+### **Cognitive Overload & Burnout**
+### **Learning Strategies That Work with CLT**
