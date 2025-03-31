@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f29cf0bb1003cb4",
+            "id": "4a0048ee511e3e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
                 "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0. CLT Overview"
-            }
-          },
-          {
-            "id": "1998448356c5f9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
-                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -64,7 +50,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -201,8 +186,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -221,23 +206,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1998448356c5f9eb",
+  "active": "4a0048ee511e3e65",
   "lastOpenFiles": [
-    "Windows/Shorctucts/Draft Notes.md",
+    "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.4 Split-Attention Effect & Redundancy Principle.md",
     "Windows/Shorctucts/0/CLT/Content/0. CLT Overview.md",
-    "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.1 Working Memory & Long-Term Memory.md",
+    "Windows/Shorctucts/Draft Notes.md",
     "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.3 Cognative Load.md",
+    "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.1 Working Memory & Long-Term Memory.md",
+    "Windows/Shorctucts/0/CLT/Content/4. Learning Processes.md",
     "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.2 Schema Theory.md",
-    "Windows/Shorctucts/Chat notes.md",
+    "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview/0.1 Cognative Load.md",
     "Windows/Shorctucts/0/CLT/Content/1. Persception.md",
     "Windows/Shorctucts/0/CLT/Mnemonic/CLT Overview",
-    "Windows/Shorctucts/0/CLT/Content/4. Learning Processes.md",
     "Windows/Shorctucts/0/CLT/Content/3. Problem-Solving & Critical Thinking.md",
     "Windows/Shorctucts/0/CLT/Content/2. Memory.md",
+    "Windows/Shorctucts/Chat notes.md",
     "Windows/Shorctucts/0/0.3 Glossary.md",
     "Windows/Shorctucts/0/0.2 Reference Guide.md",
     "Windows/Shorctucts/1. Introduction/1.1 Shortcut Introduction.md",
@@ -259,7 +246,6 @@
     "Grading_System.md",
     "Learning_Curve.md",
     "Windows/Shorctucts/1. Introduction",
-    "Welcome.md",
     "Windows/Shorctucts",
     "Windows"
   ]
