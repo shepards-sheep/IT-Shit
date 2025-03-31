@@ -72,3 +72,21 @@ To ensure the **CLT Overview** is well-structured, engaging, and easy to navigat
 ### **Element Interactivity & Task Complexity**
 ### **Cognitive Overload & Burnout**
 ### **Learning Strategies That Work with CLT**
+
+
+
+### **Key Aspects of Cognitive Load Theory**
+
+1. **Working Memory & Long-Term Memory** – The foundation of learning, explaining how information is processed and stored.
+    
+2. **Schema Theory** – How knowledge is structured and retrieved to reduce cognitive load.
+    
+3. **Types of Cognitive Load** – The three types: Intrinsic, Extraneous, and Germane Load, and how they influence learning.
+    
+4. **Split-Attention Effect & Redundancy Principle** – How instructional design affects cognitive load and learning efficiency.
+    
+5. **Expertise Reversal Effect** – Why instructional techniques must adapt as learners gain expertise.
+    
+6. **Element Interactivity & Task Complexity** – How different elements interact within a task, influencing cognitive demand.
+    
+7. **Cognitive Overload & Burnout** – The consequences of excessive cognitive load and strategies to mitigate them.
