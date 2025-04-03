@@ -1,94 +1,77 @@
-### **1. Logical Flow**
+- **Shortcut Categorization:**
 
-- **Strengths:**
-    
-    - The text starts with a general introduction to Cognitive Theory, then transitions into why CLT is critical.
-        
-    - It smoothly moves from defining the core components (Intrinsic, Extraneous, Germane) to real-world examples.
-        
-- **Suggestions:**
-    
-    - Consider a brief linking sentence before the examples that ties the theory to its practical applications.
-        
-    - You might add a concluding sentence for the overview that briefly summarizes the importance of CLT.
-        
+    - Are we grouping them by function (e.g., navigation, window management, text editing), frequency of use, or another metric?
+    - 
+- **General Shortcuts** 
+-     This category includes everyday commands that most users perform regularly. For clarity, we can subdivide them into smaller, manageable groups:
+1. Text Editing & Navigation Shortcuts
+2. File Management Shortcuts
+3. Window & System Shortcuts
+4. Menu & Miscellaneous Shortcuts
 
----
+- **Window & Desktop Management**
+- **File Explorer & Navigation**
+- **Text Editing & Clipboard**
+- **System & Accessibility Shortcuts**
+- **Advanced Power User Shortcuts**
+- **Command Prompt & PowerShell Shortcuts**
+- **User Ranges:**
+- **Content Format:**
 
-### **2. Clear Sections**
-
-- **Strengths:**
-    
-    - The use of numbered headings and subheadings (e.g., **1. Types of Cognitive Load**, **1.1 Intrinsic Cognitive Load**) makes each part distinct.
-        
-    - Sections for real-world applications (Classroom, Cooking) and instructional strategies are clearly separated.
-        
-- **Suggestions:**
-    
-    - You could add a short introduction to each section to outline what will be covered, enhancing clarity for someone skimming through.
-        
 
 ---
 
-### **3. Scannability**
+File menu 	Alt+F, or F10 then F 	Ctrl+F2, then F[notes 2] 	Alt+F 	Meta+`, then f 	Alt+f (gvim)
 
-- **Strengths:**
-    
-    - Bullet points and concise examples make the content easy to skim.
-        
-    - Links to other notes (using the double bracket syntax) further improve navigation.
-        
-- **Suggestions:**
-    
-    - Consider adding a brief summary or key points box at the end of the overview for quick reference.
-        
-    - Using more bolding or italic text for key terms could help users quickly spot crucial concepts.
-        
+or Ctrl+e (vim + NERDTree)
+	Ctrl+O
+Edit menu 	Alt+E 	Ctrl+F2, then E[notes 2] 	Alt+E 	Meta+`, then e 	Alt+e (gvim) 	
+View menu 	Alt+V 	Ctrl+F2, then V[notes 2] 	Alt+V 			
+Undo the last operation 	Ctrl+Z, or
+Alt+← Backspace 	⌘ Cmd+Z 	Ctrl+Z 	Ctrl+x, then u or
 
----
+Ctrl+/ or
+Ctrl+_ or
+Undo
+	u 	Ctrl+Z
+Redo the last operation 	Ctrl+Y, or Alt+Shift+Backspace 	⇧ Shift+⌘ Cmd+Z 	Ctrl+⇧ Shift+Z, or Ctrl+Y 	
+Same as undo, when undo is exhausted, it redoes. Move the cursor after one or more undos, and further undos will be redos.
 
-### **4. Practical Applications**
+Since version 28, also Ctrl+?
+or Ctrl+Alt+_.
+	Ctrl+r 	Ctrl+⇧ Shift+Z
+Cut the selection and store it in the clipboard 	Ctrl+X, or ⇧ Shift+Del 	⌘ Cmd+X 	Ctrl+X 	Ctrl+w 	x
 
-- **Strengths:**
-    
-    - Real-world examples in both the classroom and everyday tasks (like cooking) effectively illustrate CLT in action.
-        
-    - The self-study and instructional design sections provide actionable tips.
-        
-- **Suggestions:**
-    
-    - Perhaps include one more example from a non-educational context (e.g., workplace training) to show versatility.
-        
-    - Consider a short section on potential pitfalls (e.g., what happens if cognitive load isn't managed) to deepen practical understanding.
-        
+or "ax to cut in register "a" or "+x to cut in system clipboard
+	Ctrl+X
+Copy the selection into the clipboard 	Ctrl+C, or Ctrl+Ins 	⌘ Cmd+C 	Ctrl+C 	Meta+w, or Ctrl+Ins 	y
 
----
+or "ay or "+y
+	Ctrl+C
+Paste contents of clipboard at cursor 	Ctrl+V,or ⇧ Shift+Ins 	⌘ Cmd+V 	Ctrl+V 	Ctrl+y, or ⇧ Shift+Ins 	p
 
-### **5. Visual Support**
+or "ap to paste the content of the "a" register or "+p to paste the content of the system clipboard
+	Ctrl+V
+Paste special 	⊞ Win+V 	Shift+Opt+Cmd+V 	Ctrl+⇧ Shift+V 	Meta+y 	Ctrl+⇧ Shift+V 	Search+V
+Select all in focused control or window 	Ctrl+A 	⌘ Cmd+A 	Ctrl+A 	Ctrl+x, then h 	ggVG, unlikely ever needed as most commands take an optional range parameter. % means "all in focused windows" here so e.g. to copy all the text, use :%y 	Ctrl+A
+Cycle through installed keyboard languages / input methods 	Alt+⇧ Shift, Ctrl+⇧ Shift, ⊞ Win+Space, ⊞ Win+⇧ Shift+Space
 
-- **Strengths:**
-    
-    - The Mermaid diagram is a great visual tool, reinforcing the relationships between different aspects of CLT.
-        
-    - The links to additional pages (mnemonics, glossary) encourage interactive exploration.
-        
-- **Suggestions:**
-    
-    - You might experiment with placing the diagram either at the beginning (as a roadmap) or right after the theory introduction to anchor the concepts visually.
-        
-    - Adding a mnemonic section or visual summary (e.g., "I Eat Good Food") right after the core components could reinforce memory.
-        
+Alt+⇧ Shift changes between languages while Ctrl+⇧ Shift changes between keyboard layouts of the same language. The latter two display a menu with the currently selected input method highlighted, and debuted in Windows 8. ⊞ Win+⇧ Shift+Space goes through the list backwards. For the first two shortcuts going backwards is done by using the right ⇧ Shift key instead of the left.
+	Fn or ⌘ Cmd+Space on older devices
 
----
+(not MBR)
 
-### **Overall Evaluation**
+Configure desired keypress in Keyboard and Mouse Preferences, Keyboard Shortcuts, Select the next source in Input menu.[1]
+	Ctrl+Alt+K via KDE Keyboard
 
-Your text is comprehensive, engaging, and follows the desired structure. The content logically builds from theory to application, is clearly segmented, and integrates practical examples along with visual aids. The internal linking is a strong feature for navigation within Obsidian.
+Alt+⇧ Shift in GNOME
+	Ctrl+\ 		Ctrl+Space
+Print 	Ctrl+P 	⌘ Cmd+P 	Ctrl+P 			Ctrl+P
+Open Help Menu 			F1 in GNOME 			Ctrl+Alt+/
+Windows Mobility Center 	Windows 7: ⊞ Win+X
 
-**Next Steps:**
-
-- Consider minor tweaks for even greater scannability (e.g., summary box, additional emphasis on key terms).
-    
-- Think about the placement of the diagram and potential additional examples, which might enhance the overall engagement.
-    
-- Ensure a smooth transition between sections with linking sentences to improve the narrative flow.
+Windows 10:
+⊞ Win+X then B
+					
+PowerUser (WinX) Menu 	Windows 10: ⊞ Win+X 					
+Restart Video Driver 	Windows 10: Ctrl+⇧ Shift+⊞ Win+B[2][3] 	
